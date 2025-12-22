@@ -1,0 +1,31 @@
+.conteudos {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+  padding: 20px;
+}
+
+.conteudo-main {
+  border: 1px solid #33333323;
+  padding: 25px;
+}
+
+.conteudo {
+  color: #ffffff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s, box-shadow 0.3s;
+  grid-column: 2/6;
+  overflow: auto;
+}
+.menu-lateral {
+  position: sticky;
+  width: 250px;
+  background-color: #1e1e1e;
+  color: #ffffff;
+  border: 1px solid #333;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  width: 75%;
+}

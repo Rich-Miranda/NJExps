@@ -8,7 +8,7 @@ Para rodar o projeto você pode rodar o comando :
 - git clone https://github.com/Rich-Miranda/NJExps.git 
 
  - E no terminal ir até a pasta a qual está executando o projeto, e dar o comando :
-   - cd NJExps
+   - CD NJExps
    - code .
            
 ## Ferramentas
@@ -20,4 +20,4 @@ Para rodar o projeto você pode rodar o comando :
  - Richard Miranda
 
  ## Contribuições
-  - Projeto ainda está sofrendo algumas melhores, mas, sinta se a vontande para contribuir com novas ideias e melhorias do projeto.  
+  - Projeto ainda está sofrendo algumas melhorias, mas, sinta se a vontande para contribuir com novas ideias e melhorias do projeto.  
